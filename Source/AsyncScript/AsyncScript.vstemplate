@@ -2,7 +2,7 @@
 <VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
     <Name>Xenko AsyncScript</Name>
-    <Description>A AsyncScript for Xenko game engine</Description>
+    <Description>An AsyncScript for Xenko game engine</Description>
     <!--<Icon>ScriptIcon.ico</Icon>-->
     <TemplateID>4d2c0da7-79ee-454c-a2b1-366c63c77570</TemplateID>
     <ProjectType>CSharp</ProjectType>
