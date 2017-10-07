@@ -3,7 +3,7 @@
   <TemplateData>
     <Name>Xenko AsyncScript</Name>
     <Description>A AsyncScript for Xenko game engine</Description>
-    <Icon Package="12dc2123-62ea-44c1-82de-47cfab5f1ded" ID="ScriptIcon" />
+    <!--<Icon>ScriptIcon.ico</Icon>-->
     <TemplateID>4d2c0da7-79ee-454c-a2b1-366c63c77570</TemplateID>
     <ProjectType>CSharp</ProjectType>
     <AppliesTo>CSharp</AppliesTo>

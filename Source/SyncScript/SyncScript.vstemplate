@@ -3,7 +3,7 @@
   <TemplateData>
     <Name>Xenko SyncScript</Name>
     <Description>A SyncScript for Xenko game engine</Description>
-    <!--<Icon>CSClassFile.ico</Icon>-->
+    <!--<Icon>ScriptIcon.ico</Icon>-->
     <TemplateID>c84b8dc6-fdc4-4c52-8f08-4a662f4ec0af</TemplateID>
     <ProjectType>CSharp</ProjectType>
     <AppliesTo>CSharp</AppliesTo>
