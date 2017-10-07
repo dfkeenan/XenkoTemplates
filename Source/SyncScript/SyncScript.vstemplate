@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Xenko SyncScript</Name>
+    <Description>A SyncScript for Xenko game engine</Description>
+    <!--<Icon>CSClassFile.ico</Icon>-->
+    <TemplateID>c84b8dc6-fdc4-4c52-8f08-4a662f4ec0af</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <AppliesTo>CSharp</AppliesTo>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>SyncScript.cs</DefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectItem ReplaceParameters="true">SyncScript.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

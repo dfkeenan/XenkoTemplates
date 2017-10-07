@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupScript", "StartupScript\StartupScript.csproj", "{0E195151-4F07-445D-9A3C-76CDB58A3F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncScript", "SyncScript\SyncScript.csproj", "{19A8E403-AB51-478D-B772-C46615938F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncScript", "AsyncScript\AsyncScript.csproj", "{9B8FF81A-EB58-4421-80A3-8DB3191E9DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XenkoTemplates", "XenkoTemplates\XenkoTemplates.csproj", "{9686FEF4-EC8C-409D-AFDF-2146D281B1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader", "Shader\Shader.csproj", "{D455CACD-5716-4CBB-B014-C07AB5C1274B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeColorShader", "ComputeColorShader\ComputeColorShader.csproj", "{8A1143ED-B739-4598-ABB6-EECAA6409ED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{ADF004F0-D369-4491-9415-17985DCDB540}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE.txt = ..\LICENSE.txt
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E195151-4F07-445D-9A3C-76CDB58A3F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E195151-4F07-445D-9A3C-76CDB58A3F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E195151-4F07-445D-9A3C-76CDB58A3F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E195151-4F07-445D-9A3C-76CDB58A3F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A8E403-AB51-478D-B772-C46615938F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A8E403-AB51-478D-B772-C46615938F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A8E403-AB51-478D-B772-C46615938F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A8E403-AB51-478D-B772-C46615938F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8FF81A-EB58-4421-80A3-8DB3191E9DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8FF81A-EB58-4421-80A3-8DB3191E9DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8FF81A-EB58-4421-80A3-8DB3191E9DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8FF81A-EB58-4421-80A3-8DB3191E9DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9686FEF4-EC8C-409D-AFDF-2146D281B1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9686FEF4-EC8C-409D-AFDF-2146D281B1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9686FEF4-EC8C-409D-AFDF-2146D281B1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9686FEF4-EC8C-409D-AFDF-2146D281B1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D455CACD-5716-4CBB-B014-C07AB5C1274B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D455CACD-5716-4CBB-B014-C07AB5C1274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D455CACD-5716-4CBB-B014-C07AB5C1274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D455CACD-5716-4CBB-B014-C07AB5C1274B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1143ED-B739-4598-ABB6-EECAA6409ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1143ED-B739-4598-ABB6-EECAA6409ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1143ED-B739-4598-ABB6-EECAA6409ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1143ED-B739-4598-ABB6-EECAA6409ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A109B1AF-055B-4F2F-855A-D50954163819}
+	EndGlobalSection
+EndGlobal
