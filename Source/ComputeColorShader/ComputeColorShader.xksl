@@ -1,8 +1,10 @@
-﻿
-shader $safeitemrootname$ : ComputeColor
+﻿namespace $safeprojectname$
 {
-   override float4 Compute()
-   {
-        return float4(0, 1, 0, 1);
-   }
-};
+    shader $safeitemrootname$ : ComputeColor
+    {
+       override float4 Compute()
+       {
+            return float4(0, 1, 0, 1);
+       }
+    };
+}

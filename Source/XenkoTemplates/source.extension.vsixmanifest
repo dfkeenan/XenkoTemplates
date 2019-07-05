@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Xenko Templates.12dc2123-62ea-44c1-82de-47cfab5f1ded" Version="0.1" Language="en-US" Publisher="Daniel Keenan" />
+        <Identity Id="Xenko Templates.12dc2123-62ea-44c1-82de-47cfab5f1ded" Version="0.2" Language="en-US" Publisher="Daniel Keenan" />
         <DisplayName>Xenko Templates</DisplayName>
         <Description xml:space="preserve">A collection of item templates for the Xenko game engine. Including Scripts and shaders.</Description>
         <MoreInfo>https://github.com/dfkeenan/XenkoTemplates</MoreInfo>
@@ -9,7 +9,7 @@
         <Tags>Xenko;Scripts;Shaders</Tags>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,15.0]" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,)" />
     </Installation>
     <Dependencies>
     </Dependencies>
@@ -21,6 +21,6 @@
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="Project" d:ProjectName="ComputeColorShader" d:TargetPath="|ComputeColorShader;TemplateProjectOutputGroup|" Path="ItemTemplates" d:VsixSubPath="ItemTemplates" />
     </Assets>
     <Prerequisites>
-        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,)" DisplayName="Visual Studio core editor" />
     </Prerequisites>
 </PackageManifest>
