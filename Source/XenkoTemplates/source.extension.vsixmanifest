@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Xenko Templates.12dc2123-62ea-44c1-82de-47cfab5f1ded" Version="0.2" Language="en-US" Publisher="Daniel Keenan" />
+        <Identity Id="Xenko Templates.12dc2123-62ea-44c1-82de-47cfab5f1ded" Version="0.3" Language="en-US" Publisher="Daniel Keenan" />
         <DisplayName>Xenko Templates</DisplayName>
         <Description xml:space="preserve">A collection of item templates for the Xenko game engine. Including Scripts and shaders.</Description>
         <MoreInfo>https://github.com/dfkeenan/XenkoTemplates</MoreInfo>
