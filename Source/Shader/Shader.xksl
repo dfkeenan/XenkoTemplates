@@ -1,7 +1,4 @@
-﻿namespace $rootnamespace$
+﻿shader $safeitemrootname$
 {
-    shader $safeitemrootname$
-    {
    
-    };
-}
+};
